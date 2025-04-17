@@ -1,4 +1,4 @@
-public class car {
+public class Car {
 
     public void start() {
         startElectricity();
