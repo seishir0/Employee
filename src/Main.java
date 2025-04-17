@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         Employee emp = new Employee("Іван Петренко", "Менеджер", "ivan@email.com", "+380501234567", 35);
-        car car = new car();
+        Car car = new Car();
         car.start();
     }
 }
